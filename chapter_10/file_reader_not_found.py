@@ -9,9 +9,6 @@ try:
 except FileNotFoundError:
     print('File not found')
 
-
-
-
 while True:
     new_name = input('Enter new name (type quit to quit): ')
     if new_name == 'quit':

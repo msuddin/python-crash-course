@@ -37,8 +37,24 @@ Hello world
 ```
 Note that you should be seeing the `(venv)` since your using a virtual environment.
 
-## Learning Notes
+## Learning Notes - Part I
 
-### Sub Title
+|Chapter|Title| Learning Notes|
+|-|-|-|
+|1|Getting Started| Installing and Hello world program|
+|2|Variables and simple data types| Strings, numbers and comments|
+|3 & 4|Lists| Lists, for loops|
+|5|If Statements| If, if else and else statements|
+|6|Dictionaries| Dictionaries, list of dictionaries, dictionaries of dictionaries|
+|7|User Input and While Loops| User input, while loops, casting to Int|
+|8|Functions| Functions, return functions, default values, argument order|
+|9|Classes| Classes, Inheritance, Encapsulation|
+|10|Files and Exceptions| Catching exception, reading and writing to files|
+|11|Testing with Pytest| Testing functions and classes with Pytest|
 
-- Notes
+## Learning Notes - Part II
+
+### Chapter 12
+| Chapter | Title | Learning Notes |
+|-|-|-|
+|12|Pending|-|
