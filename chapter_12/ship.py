@@ -9,7 +9,7 @@ class Ship:
         self.screen_rect = self.screen.get_rect()
 
         # Load the ship and get its rect
-        self.image = pygame.image.load('chapter_12_alien_invasion/images/ship.bmp')
+        self.image = pygame.image.load('chapter_12/images/ship.bmp')
         self.rect = self.image.get_rect()
 
         # Start the ship at the bottom of the screen
